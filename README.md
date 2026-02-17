@@ -47,7 +47,7 @@ Visualização
 Excel → Tabelas dinâmicas + gráficos mensais
 Power BI → Dashboard interativo com evolução patrimonial
 ## Star Schema
-![Schema](/Schema.png)
+![Schema](/schema.png)
 
 ## 📊 Visual do Dashboard
 
