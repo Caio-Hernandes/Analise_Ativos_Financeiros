@@ -11,6 +11,9 @@ A solução foi desenvolvida em três etapas principais:
 
 3-Dashboard em Power BI → Construção de cenários visuais, como a evolução de R$1000 investidos em cada ativo ao longo de 2 anos.
 
+## Exportação para Excel
+![Excel](/Excel.png)
+
 Tecnologias Utilizadas:
 
 -Python 3.1
