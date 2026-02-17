@@ -38,6 +38,11 @@ Visualização
 Excel → Tabelas dinâmicas + gráficos mensais
 Power BI → Dashboard interativo com evolução patrimonial
 
+## 📊 Visual do Dashboard
+
+![Dashboard](/Dashboard de  Ativos.png)
+
+
  Resultados Obtidos:
 Comparação clara da valorização dos ativos ao longo de 2 anos.
 Identificação do ativo com melhor performance e o com pior desempenho.
