@@ -16,15 +16,13 @@ A solução foi desenvolvida em três etapas principais:
 
 Tecnologias Utilizadas:
 
--Python 3.1
--yfinance → Coleta de cotações históricas
--pandas → Limpeza e transformação dos dados
--Excel
--Tabelas dinâmicas
--Gráficos comparativos de acumulado e retornos médios
--Power BI
--Medidas DAX para simulação de investimentos
--Gráficos de linhas e colunas para comparar evolução patrimonial
+1-Python 3.1
+2-yfinance → Coleta de cotações históricas
+3-pandas → Limpeza e transformação dos dados
+4-Excel
+5-Power BI
+6-Medidas DAX para simulação de investimentos
+7-Gráficos de linhas e colunas para comparar evolução patrimonial
 
  Como Funciona:
 
