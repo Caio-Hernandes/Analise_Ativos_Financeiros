@@ -37,6 +37,8 @@ O script em Python baixa cotações do Dólar, IBOV e ações (PETR4, VALE3, ITU
 Os dados são ajustados para incluir fins de semana/feriados (mantendo última cotação válida) e exportados para Excel.
 
 Tratamento e Métricas
+Despivotização da tabela inicial para padronização dos dados
+Modelo estrela de modelagem de dados
 Retorno diário
 Retorno acumulado
 Simulação de carteira inicial (ex.: R$1000 investidos)
@@ -44,6 +46,8 @@ Simulação de carteira inicial (ex.: R$1000 investidos)
 Visualização
 Excel → Tabelas dinâmicas + gráficos mensais
 Power BI → Dashboard interativo com evolução patrimonial
+## Star Schema
+![Schema](/Schema.png)
 
 ## 📊 Visual do Dashboard
 
