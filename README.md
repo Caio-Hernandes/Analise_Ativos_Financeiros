@@ -40,7 +40,7 @@ Power BI → Dashboard interativo com evolução patrimonial
 
 ## 📊 Visual do Dashboard
 
-![Dashboard](/Dashboard de  Ativos.png)
+![Dashboard](/Dashboard_de_Ativos.png)
 
 
  Resultados Obtidos:
